@@ -1,0 +1,1 @@
+['USD', 'EUR', 'RUB', 'GBP', 'UAH', 'TRY', 'CNY', 'JPY', 'CAD', 'CHF']
