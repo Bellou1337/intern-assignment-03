@@ -1,0 +1,1 @@
+{'id': '31', 'title': 'Лимон', 'description': 'Пикантные и кислые лимоны, универсально подходящие для готовки, выпечки и приготовления освежающих напитков.', 'price': {'amount': 0.79, 'currency': 'USD'}, 'rating': 3.53, 'imageUrl': 'https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp', 'category': {'slug': 'groceries', 'title': 'Продукты'}}

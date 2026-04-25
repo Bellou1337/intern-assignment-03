@@ -1,0 +1,2 @@
+Status: 400
+Body: {"statusCode":400,"error":"BAD_REQUEST","message":"querystring/pageSize must be >= 1"}
